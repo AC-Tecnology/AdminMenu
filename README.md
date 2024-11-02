@@ -30,7 +30,7 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Siempre estamos abierto
 
 ## Licencia
 
-Este módulo se distribuye bajo la Licencia MIT. Puedes ver los detalles completos de la licencia en el archivo LICENSE.md.
+Este módulo se distribuye bajo la Licencia GPL. Puedes ver los detalles completos de la licencia en el archivo LICENSE.md.
 
 ¡Gracias por usar AdminMenu! Esperamos que te sea de gran utilidad para mejorar la gestión de menús de administración en tu proyecto de Magento. Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos. ¡Disfruta de la experiencia de administración avanzada con AdminMenu!
 
