@@ -1,8 +1,7 @@
 {
-  "name": "actecnology/adminmenu",
-  "description": "Magento 2 AdminMenu Module",
+  "name": "actecnology/module-admin-menu",
+  "description": "Magento 2 AdminMenu Module - root admin menu for AC Tecnology modules",
   "type": "magento2-module",
-  "version": "1.0.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -13,6 +12,11 @@
       "email": "arturo.actecnology@gmail.com"
     }
   ],
+  "require": {
+    "php": "~8.3.0||~8.4.0",
+    "magento/framework": "^103.0",
+    "magento/module-backend": "^102.0"
+  },
   "autoload": {
     "files": [
       "registration.php"
